@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="cucumber.api.CucumberOptions"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
+<fullyQualifiedTypeName name="com.cucumber.listener.Reporter"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+<fullyQualifiedTypeName name="cucumber.api.PendingException"/>
+<fullyQualifiedTypeName name="tt.ebay.pageElements.EbayHomePageLocators"/>
+<fullyQualifiedTypeName name="tt.ebay.pageAction.EbayHomePageActions"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="tt.utilites.SetupDrivers"/>
+</qualifiedTypeNameHistroy>

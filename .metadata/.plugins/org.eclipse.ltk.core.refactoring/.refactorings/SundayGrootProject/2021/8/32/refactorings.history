@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SundayGrootProject/src/test/resource/FeatureFiles/EbayOutlate.Feature&apos; to &apos;EbayMensPansOutlline.Feature&apos;" description="Rename resource &apos;EbayOutlate.Feature&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/resource/FeatureFiles/EbayOutlate.Feature" name="EbayMensPansOutlline.Feature" stamp="1627873434013" updateReferences="true"/>
+</session>
